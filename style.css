@@ -5,12 +5,7 @@ body {
    margin: 0;
    border-style: groove;
    border-color:greenyellow;
-   background-image:radial-gradient(
-      white,
-      orange,
-      blue,
-      green
-   );
+   background-color:palevioletred;
 }
 
 
